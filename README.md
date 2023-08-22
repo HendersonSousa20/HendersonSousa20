@@ -28,6 +28,6 @@ Estou sempre aberto a oportunidades de colaboração, contribuições para proje
 
 Vamos construir a web incrível do futuro juntos! ✨
 
-<----  HendersonSousa20/HendersonSousa20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!----  HendersonSousa20/HendersonSousa20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
