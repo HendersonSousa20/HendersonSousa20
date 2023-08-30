@@ -13,7 +13,7 @@ Projetos Notáveis
 
 Projeto 1 - projeto de big data para uma farmacia 
 
-projeto no qual assumir a posição de teach lead e programador no qual junto de minha equipe emplementamos analise de dados e machine learning na base de dados de uma farmacia 
+projeto no qual assumir a posição de tech lead e programador no qual junto de minha equipe emplementamos analise de dados e machine learning na base de dados de uma farmacia 
 
 
 Contribuições para a Comunidade
