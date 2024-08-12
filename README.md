@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Henderson Sousa 😁
+## Bem-vindo ao perfil do Henderson Sousa 
 
  <div>
    <a href="https://github.com/HendersonSousa20">
