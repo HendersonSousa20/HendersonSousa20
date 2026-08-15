@@ -1,12 +1,13 @@
 ## Bem-vindo ao perfil do Henderson Sousa 
 
 
- <div>
-   <a href="https://github.com/HendersonSousa20">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HendersonSousa20&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img  height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=HendersonSousa20&theme=radical&mode=weekly" />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HendersonSousa20&layout=compact&langs_count=6&theme=radical"/>
-</div>
+<p align="center">
+  <a href="https://github.com/HendersonSousa20">
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HendersonSousa20&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Estatísticas do GitHub" />
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=HendersonSousa20&theme=radical&mode=weekly" alt="Sequência de Contribuições" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HendersonSousa20&layout=compact&langs_count=6&theme=radical&cache_seconds=86400" alt="Linguagens Mais Usadas" />
+  </a>
+</p>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
